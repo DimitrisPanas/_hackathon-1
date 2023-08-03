@@ -1,1 +1,3 @@
-# _hackathon-1
+# Open Source Force First Hackathon
+
+This is the repository containing my partitipation to the Hackathon
